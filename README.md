@@ -1,0 +1,2 @@
+# simplesite-wt
+wagtail
